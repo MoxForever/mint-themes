@@ -1,4 +1,4 @@
-Adding a Mint-Y theme
+Mint theme fork, fully black
 =====================
 
 1. Add new colors to `constants.py`
